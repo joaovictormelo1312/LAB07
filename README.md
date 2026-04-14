@@ -51,7 +51,7 @@ python fine_tune.py
 ## Nota de Integridade (Obrigatória)
 
 > [!IMPORTANT]
-> **Partes geradas/complementadas com IA, revisadas por [Seu Nome]**
+> **Partes geradas/complementadas com IA, revisadas por João Victor Melo**
 
 ---
 Desenvolvido para fins acadêmicos.
