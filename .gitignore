@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Model weights and results
+results/
+llama2-specialized-finance/
+*.bin
+*.model
+*.safetensors
+
+# Datasets (opcional, se quiser manter no repo não ignore)
+# dataset_train.jsonl
+# dataset_test.jsonl
+
+# IDEs
+.vscode/
+.idea/
